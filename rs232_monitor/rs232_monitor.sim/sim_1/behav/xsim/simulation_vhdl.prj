@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../rs232_monitor.srcs/sources_1/new/display.vhd" \
+"../../../../rs232_monitor.srcs/sources_1/new/encoder.vhd" \
+"../../../../rs232_monitor.srcs/sources_1/new/top.vhd" \
+"../../../../rs232_monitor.srcs/sim_1/new/simulation.vhd" \
+
+# Do not sort compile order
+nosort
