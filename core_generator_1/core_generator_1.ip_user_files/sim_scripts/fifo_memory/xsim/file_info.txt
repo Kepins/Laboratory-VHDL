@@ -1,0 +1,2 @@
+fifo_memory_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../core_generator_1.gen/sources_1/ip/fifo_memory/fifo_memory_sim_netlist.vhdl,
+glbl.v,Verilog,xil_defaultlib,glbl.v

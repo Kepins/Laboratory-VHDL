@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Apr 13 18:54:03 2023
+# Process ID: 9180
+# Current directory: C:/Users/szkep/source/repos/Vivado/core_generator_1/core_generator_1.runs/fifo_memory_synth_1
+# Command line: vivado.exe -log fifo_memory.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_memory.tcl
+# Log file: C:/Users/szkep/source/repos/Vivado/core_generator_1/core_generator_1.runs/fifo_memory_synth_1/fifo_memory.vds
+# Journal file: C:/Users/szkep/source/repos/Vivado/core_generator_1/core_generator_1.runs/fifo_memory_synth_1\vivado.jou
+# Running On: DESKTOP-MI4069Q, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 12, Host memory: 17131 MB
+#-----------------------------------------------------------
+source fifo_memory.tcl -notrace

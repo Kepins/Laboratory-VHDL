@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../core_generator_1.gen/sources_1/ip/char_memory_1/char_memory_sim_netlist.vhdl" \
+
+nosort

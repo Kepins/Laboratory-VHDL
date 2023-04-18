@@ -1,0 +1,4 @@
+xpm_memory.sv,systemverilog,xpm,../../../../../../../../../../Xilinx/Vivado/2022.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../../../../../../Xilinx/Vivado/2022.2/data/ip/xpm/xpm_VCOMP.vhd,
+char_memory_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../core_generator_1.gen/sources_1/ip/char_memory_1/char_memory_sim_netlist.vhdl,
+glbl.v,Verilog,xil_defaultlib,glbl.v
